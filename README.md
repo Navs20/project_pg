@@ -1,2 +1,4 @@
 # project_pg
-about the pg we stay in
+Just a Basic Site for our PG
+
+DISCLAIMER : JUST FOR FUN :)
